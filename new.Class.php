@@ -9,7 +9,7 @@ class democlass {
 	private function summ($summand1, $summand2){
 
 		//do some changes right now
-		
+		echo "let's count it!";
 		return $summand1 + $summand2;
 	}
 
