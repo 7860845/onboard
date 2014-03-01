@@ -5,8 +5,9 @@
   
   echo $a + $b;
   
-  echo "<br>";
+  echo "<br>another number is: ";
   
+  echo $b - $a;
   
   exit;
 
