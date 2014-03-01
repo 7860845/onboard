@@ -7,8 +7,9 @@ class democlass {
 	private $b = 2;
 	
 	private function summ($summand1, $summand2){
-		//do some changes now
 
+		//do some changes right now
+		
 		return $summand1 + $summand2;
 	}
 
